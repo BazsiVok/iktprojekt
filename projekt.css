@@ -1,0 +1,41 @@
+img{
+    background-color: #28223A;
+
+}
+body{
+    background-color:#F8ECF6;
+}
+table {
+    border-color:#28223A;
+    border-width: 7px;
+    width: 500px;
+    background-color: #755BB2;
+    font-family: Helvetica;
+    border-left: 100%;
+}
+.logo{
+    width:100%;
+    height:125px;
+
+   
+}
+
+.nem{
+    text-align: center;
+    border-width: 10px ;
+    border-color: #28223A;
+    font-family: Helvetica;
+    font-size: 40px;
+    height:60px;
+}
+.igen{
+    text-align: center;
+    height:60px;
+    font-size: 20px;
+    border-width: 3px;
+    font-family: Helvetica;
+}
+.csapatkep{
+    width:1350px ;
+    height:300px;
+}
